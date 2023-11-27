@@ -1,0 +1,17 @@
+.carousel-inner > .carousel-item > img {
+    max-width: 600px;
+  }
+
+.carousel-caption {
+    bottom: 5rem;
+}
+
+.sidebar {
+    padding-top: 70px;
+    z-index: 0;
+}
+
+.container {
+    margin-left: 0;
+    margin-right: 0;
+}
